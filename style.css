@@ -1,0 +1,8 @@
+#cadre{
+    display: flex;
+    border: solid beige 1px;
+
+}
+.header{
+    border: solid violet 1px;
+}
